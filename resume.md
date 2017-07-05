@@ -23,6 +23,7 @@ Norfolk, VA
 * Created reusable .NET component for calculation of distance between two points or addresses, integrating with Melissa Data.
 * Focusing on component reusability, created multiple NuGet package components for use across many products in the enterprise.
 * Gained heavy experience in Trizetto FACETS, particularly in the Member, Provider, and Billing modules.
+* Mentored consultants and other team members to help grow individual experience and champion the success of the team as a whole.
 
 **Senior Software Engineer**\
 Web Teks, Inc.\
