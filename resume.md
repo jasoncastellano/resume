@@ -3,7 +3,7 @@ Jason Castellano
 
 ----
 
->Successful and motivated .NET full-stack software engineer with 17+ years’ experience in Solution Design, Architecture, and Development. 
+>Successful and motivated .NET full-stack software engineer with 20+ years’ experience in Solution Design, Architecture, and Development. 
 Extensive experience in designing and developing SOLID solutions with a heavy focus on unit/integration testing (TDD). Proficient in team collaboration environments, verbal and written communication, and the ability to solve
 complex problems while delivering quality results with limited direction.
 
@@ -12,15 +12,18 @@ complex problems while delivering quality results with limited direction.
 Experience
 ----------
 
-**Senior/Lead Software Engineer**\
+**Engineer Lead** (July 2019 to Present)\
+**Engineer Senior** (March 2014 to July 2019)\
 Anthem, Inc. (Government Business Division)\
-March 2014 to Present\
 Norfolk, VA
 
+* Led team of 10+ engineers in addressing the needs of our business partners, grooming our junior developers, guiding our mid-level developers, and challenging our senior developers to produce innovative and robust solutions to business requests.
 * Designed and developed engine (.NET), configurable at the market/state level, that selects the optimal Primary Care Physician for a Medicaid subscriber, based on ranking, distance (geocoordinates), specialty, and a variety of other factors.
 * Architected and served as lead developer for a unified membership reconciliation product (.NET) which would compare state Medicaid membership against Anthem membership in FACETS, aggregate member sets into market-driven categories, and provide robust web-based (JS/Angular) metrics/reporting with Excel export capability as well as direct printing styling. Solution was highly-configurable, enabling the rapid release of new market implementations, in addition to being steeped in unit test coverage.
+* Converted several .NET 4.* components and applications to dotnet standard/core, paving the way for containerized deployment on Unix-based cloud servers
+* Championed internal DevOps initiative, automating deployment/release pipelines via Atlassian BitBucket/Bamboo, Artifactory, and XLDeploy/XLRelease products
 * Served as Lead Developer on an internal Billing/Finance product (.NET), overseeing eight consultants in an Agile pair programming environment with frequent code reviews. Guided consultants through solution architecture and empowered them to determine optimal solutions. Worked with another developer to create a test data web utility (Angular) that would capture live data for usage in fast "integration" tests.
-* Created reusable .NET component for calculation of distance between two points or addresses, integrating with Melissa Data.
+* Created reusable .NET component for geocoding addresses and calculating the distance between two points or addresses, integrating with Melissa Data and Microsoft Bing Maps API.
 * Focusing on component reusability, created multiple NuGet package components for use across many products in the enterprise.
 * Gained heavy experience in Trizetto FACETS, particularly in the Member, Provider, and Billing modules.
 * Mentored consultants and other team members to help grow individual experience and champion the success of the team as a whole.
@@ -31,10 +34,10 @@ April 2013 to March 2014
 Chesapeake, VA
 
 * Designed and implemented problem analysis/resolution flow charting web application (ASPNET MVC4, jQuery) for Old Dominion University/Department of Homeland Security that came in ahead of schedule, under budget, and received critical acclaim from the client.
-* Created adaptive question survey tool for the National Center for State Courts ([Court MD] (http://www.ncsc.org/Information-and-Resources/Court-MD.aspx)), written in ASPNET MVC4 Javascript/jQuery, that was well-received by the customer.
+* Created adaptive question survey tool for the National Center for State Courts ([CourtMD](http://courtmdv2.ncsc.org/courtmd/cmd)), written in ASPNET MVC4 Javascript/jQuery, that was well-received by the customer.
 * Using Service Oriented Architecture principles, implemented a RESTful, unified service layer (.NET ServiceStack with
-RavenDB data store) to provide data and business logic to client applications for JostRunning.com.
-* Developed ASPNET MVC4/Orchard CMS website client for JostRunning.com.
+RavenDB data store) to provide data and business logic to client applications for JostRunning.
+* Developed ASPNET MVC4/Orchard CMS website client for JostRunning.
 
 **Senior Software Engineer/Build Engineer**\
 InnovaSystems International\
@@ -65,6 +68,8 @@ by 60% within the first four months.
 
 Certifications
 ---------
+* SAFe SDP (Certified SAFe 4 DevOps Practitioner)
+* SAFe SA (Certified SAFe 4 Agilist)
 * MCPD (Microsoft Certified Professional Developer): Web Developer 4
 * MCTS (Microsoft Certified Technology Specialist): .NET 4, Service Communication Applications
 * MCTS (Microsoft Certified Technology Specialist): .NET 4, Data Access
